@@ -1,4 +1,4 @@
-<img alt="Shervin" src="https://github.com/shervinghaffari79/shervinghaffari79/blob/main/Shervin%20Ghaffari.gif?raw=true"/>
+<img alt="Shervin" src="https://github.com/shervinghaffari79/shervinghaffari79/blob/main/Shervin%20Ghaffari-3.gif?raw=true"/>
 <p align='center'>
   <a href="https://www.linkedin.com/in/shervin-ghaffari"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?hl=en&user=oo7dtBkAAAAJ"><img alt="GoogleScholar" title="GoogleScholar" src="https://img.shields.io/badge/Google%20Scholar-%230077B5.svg?style=for-the-badge&logo=google%20scholar&logoColor=white"/></a>
