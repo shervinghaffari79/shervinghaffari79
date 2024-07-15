@@ -15,5 +15,5 @@ You can find more details about me in my <a href='https://shervinghaffari79.gith
 - 📑 Iam currently working on papers related to **Generative AI.**
 - 💬 Ask me about **Web-Dev, , Networking, Machine Learning.**
 - 📝 Find My **<a href='https://raw.githubusercontent.com/shervinghaffari79/Resume/main/CV_Shervin_Ghaffari.pdf' target="_blank">Resume</a>.**
-- 🔗 My **<a href='https://shervinghaffari79.github.io' target="_blank">Portfolio</a>.**
+- 🔗 Visit My **<a href='https://shervinghaffari79.github.io' target="_blank">Portfolio</a>.**
 - 📫 You can reach me **shervinghaffari79@gmail.com**
