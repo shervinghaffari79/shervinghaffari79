@@ -1,16 +1,14 @@
-<img alt="Shervin" src="https://github.com/shervinghaffari79/shervinghaffari79/blob/main/Shervin%20Ghaffari-3.gif?raw=true"/>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/shervin-ghaffari"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=oo7dtBkAAAAJ"><img alt="GoogleScholar" title="GoogleScholar" src="https://img.shields.io/badge/Google%20Scholar-%230077B5.svg?style=for-the-badge&logo=google%20scholar&logoColor=white"/></a>
-  <a href="mailto:shervinghaffari79@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
-<br/>
 <h3 align="left">🌐 About Me</h3>
 
 <p style="text-align: justify;">
     I recently graduated with a bachelor's degree in <a href='https://math.aut.ac.ir/index.php?sid=7&slc_lang=en' target="_blank">Computer Science</a> from the prestigious <a href='https://aut.ac.ir/en' target="_blank">Amirkabir University of Technology</a>, achieving a GPA of 18.43/20. My academic journey involved engaging in diverse and challenging projects across several domains, including Machine Learning, Software Development, Algorithm Design, Data Mining, and Web Engineering. You can find more details about me in my <a href='https://shervinghaffari79.github.io' target="_blank">portfolio</a> which is live now.
 </p>
-
+<p align='left'>
+  <a href="https://www.linkedin.com/in/shervin-ghaffari"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=oo7dtBkAAAAJ"><img alt="GoogleScholar" title="GoogleScholar" src="https://img.shields.io/badge/Google%20Scholar-%230077B5.svg?style=for-the-badge&logo=google%20scholar&logoColor=white"/></a>
+  <a href="mailto:shervinghaffari79@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+<br/>
 
 <img
     src="https://raw.githubusercontent.com/shervinghaffari79/shervinghaffari79/main/about.png"
